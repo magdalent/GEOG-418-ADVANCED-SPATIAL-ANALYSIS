@@ -1,3 +1,3 @@
-# GEOG-418-ADVANCED-SPATIAL-ANALYSIS
+# Geog‑418 advanced spatial analysis 🦑
 
-ADVANCED SPATIAL ANALYSIS coursework
+Coursework for geog‑418 advanced spatial analysis focused on spatial interpolation, autocorrelation, and geographic regression.
